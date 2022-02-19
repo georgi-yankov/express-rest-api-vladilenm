@@ -10,7 +10,9 @@
   },
   "keywords": [
     "express",
-    "vue"
+    "vue",
+    "rest",
+    "api"
   ],
   "author": "GSY",
   "license": "ISC",
