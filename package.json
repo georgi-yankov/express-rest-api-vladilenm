@@ -1,0 +1,21 @@
+{
+  "name": "express-rest-api-vladilenm",
+  "version": "1.0.0",
+  "description": "rest api fullstack example",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "express",
+    "vue"
+  ],
+  "author": "GSY",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  }
+}
